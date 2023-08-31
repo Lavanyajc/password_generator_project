@@ -28,9 +28,9 @@ n_symbols=int(input("enter the number of symbols you need"))
 
 
 
-'''#hard level generating password with random length without inputs so make input function lines as comments
+#hard level generating password with random length without inputs so make input function lines as comments
 
-#password=''
+'''#password=''
 #for char in range(1,len(letters)):
  # password += random.choice(letters) 
 
@@ -39,7 +39,7 @@ n_symbols=int(input("enter the number of symbols you need"))
 
 #for char in range(1,len(symbols)):
  # password += random.choice(symbols) 
-#print(password)'''  you can use this best code for password generating that i mentioned between triple quotes..you can remove hash at everyline in order to run the code and dont use input funtion at beginning.
+#print(password)'''  #you can use this best code for password generating that i mentioned between triple quotes..you can remove hash at everyline in order to run the code and dont use input funtion at beginning.
 
 
 
